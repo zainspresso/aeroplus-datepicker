@@ -4,10 +4,7 @@
     "version": "1.0",
     "description": "Insert a date picker to the Aeroplus client page.",
     "permissions": [
-        "storage",
-        "activeTab",
-        "scripting",
-        "tabs"
+        "scripting"
     ],
     "host_permissions": [
         "https://client.aeroplus.nl/*"
